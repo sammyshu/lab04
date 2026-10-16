@@ -38,3 +38,18 @@ table, th, td {
 .month {
     text-align:right;
 }
+
+#images {
+    text-align: center;
+}
+
+
+ol ul {
+    list-style-type: square;
+}
+
+nav a:hover{
+
+    background-color: lightblue;
+    border-color : darkblue;
+}
