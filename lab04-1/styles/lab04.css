@@ -5,3 +5,36 @@ created: 10/16/2026
 last modified: 10/16/2026
 description: Styles for lab04.html (in ../lab04.html)
 */
+* {
+    font-family: calibri, sans-serif;
+    color: #2F4F4F;
+}
+h2 {
+    color: rgb(0,128,128);
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
+#images {
+    text-align: center;
+}
+
+
+#html_heading_description_heading {
+    color: red;
+}
+
+
+.special {
+    color: darkorange;
+    font-weight: bold;
+}
+
+.month {
+    text-align:right;
+}
